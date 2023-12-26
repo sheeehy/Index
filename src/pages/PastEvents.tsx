@@ -1,5 +1,3 @@
-import React from "react";
-
 const PastEvents = () => {
   return (
     <main className="min-h-screen  bg-zinc-950 select-none">

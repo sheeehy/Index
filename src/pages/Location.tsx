@@ -1,5 +1,3 @@
-import React from "react";
-
 const Location = () => {
   return (
     <main className="min-h-screen select-none  bg-zinc-950">

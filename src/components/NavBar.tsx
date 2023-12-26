@@ -1,4 +1,3 @@
-import React from "react";
 import IndexLogo from "../assets/logo-index.png";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { AiFillInstagram } from "react-icons/ai";
@@ -6,7 +5,7 @@ import { PiSoundcloudLogoFill } from "react-icons/pi";
 import { FaMeta } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 
-import { Sheet, SheetContent, SheetDescription, SheetClose, SheetHeader, SheetTitle, SheetTrigger } from "./Sheet";
+import { Sheet, SheetContent, SheetClose, SheetHeader, SheetTitle, SheetTrigger } from "./Sheet";
 
 const Navbar = () => {
   return (

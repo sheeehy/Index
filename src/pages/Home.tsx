@@ -1,4 +1,3 @@
-import React from "react";
 import Index from "../assets/logo-index.png";
 
 const Home = () => {

@@ -1,5 +1,3 @@
-import React from "react";
-
 const Gallery = () => {
   const imageUrls = [
     "https://indexdublin.com/wp-content/uploads/2023/09/ArmandVanHelden08_09_2023_Index_Killian_Whyte-24.jpg",

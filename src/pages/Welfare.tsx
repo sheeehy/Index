@@ -1,5 +1,3 @@
-import React from "react";
-
 const Welfare = () => {
   return (
     <main className="min-h-screen select-none  bg-zinc-950">

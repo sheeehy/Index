@@ -1,5 +1,3 @@
-import React from "react";
-
 const Tickets = () => {
   return (
     <main className="min-h-screen  bg-zinc-950">
