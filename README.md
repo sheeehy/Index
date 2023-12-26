@@ -1,3 +1,7 @@
+# INDEX Dublin 
+A clone / demo site for Index Dublin. Built with React, ThreeJS and Tailwind.
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
