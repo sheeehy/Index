@@ -1,5 +1,3 @@
-import Index from "../assets/logo-index.png";
-import ThreeDModel from "../components/ThreeDModel";
 import Spline from "@splinetool/react-spline";
 
 const Home = () => {
