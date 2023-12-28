@@ -1,11 +1,18 @@
 import Index from "../assets/logo-index.png";
+import ThreeDModel from "../components/ThreeDModel";
+import Spline from "@splinetool/react-spline";
 
 const Home = () => {
   return (
     <>
       <main className="bg-zinc-950 select-none ">
-        <img src={Index} alt="Index Logo" className="w-1/4 mx-auto pt-20" />
+        <div className="flex justify-center items-center h-screen ">
+          {" "}
+          {/* Adjust height */}
+          <Spline scene="https://prod.spline.design/I9hrmnSbwf2vcUiC/scene.splinecode" style={{ width: "100%", height: "100%" }} />
+        </div>
         <h1 className="flex justify-center font-Archivo text-[7rem] text-white pt-24 ">UPCOMING</h1>
+
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-12 justify-center items-center px-12 pt-12 select-none mx-auto">
           {/* Image 1 */}
           <a href="https://www.eventbrite.ie/e/index-x-research-x-influence-dyen-funk-tribu-tickets-753154725057?aff=oddtdtcreator" className="text-center block hover-opacity">
