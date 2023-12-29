@@ -9,7 +9,7 @@ const Home = () => {
           {/* Adjust height */}
           <Spline scene="https://prod.spline.design/I9hrmnSbwf2vcUiC/scene.splinecode" style={{ width: "100%", height: "100%" }} />
         </div>
-        <h1 className="flex justify-center font-Archivo text-[7rem] text-white pt-24 ">UPCOMING</h1>
+        <h1 className="flex justify-center font-Archivo text-[7rem] text-white pt-0 ">UPCOMING</h1>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-12 justify-center items-center px-12 pt-12 select-none mx-auto">
           {/* Image 1 */}
