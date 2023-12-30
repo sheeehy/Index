@@ -6,7 +6,6 @@ const Home = () => {
       <main className="bg-zinc-950 select-none ">
         <div className="flex justify-center items-center h-screen ">
           {" "}
-          {/* Adjust height */}
           <Spline scene="https://prod.spline.design/I9hrmnSbwf2vcUiC/scene.splinecode" style={{ width: "100%", height: "100%" }} />
         </div>
         <h1 className="flex justify-center font-Archivo text-[7rem] text-white pt-0 ">UPCOMING</h1>
