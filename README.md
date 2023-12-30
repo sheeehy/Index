@@ -1,5 +1,5 @@
 # INDEX Dublin 
-A clone / demo site for Index Dublin. Built with React, ThreeJS and Tailwind.
+A demo site for Index Dublin. Built with React, Spline and Tailwind.
 
 
 # React + TypeScript + Vite
